@@ -9,7 +9,7 @@ const Intro = () => {
 <div className='flex text-3xl italic font-semibold font-jost p-5 items-center justify-center'>
     <h2>Introducing Zeno (ZENO) on BNSOL Super Stake:</h2>
     </div>
-    <div className='int flex font-parisienne text-xl px-15 text-justify'>
+    <div className='int flex font-jost text-xl px-15 text-justify'>
     <p>ZenoLayer isn’t just another L2. It’s the degenerate dream:<ol>
       <li>1. Finality in 0 seconds</li>
       <li>2. Gas fees near zero</li>

@@ -4,10 +4,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Merienda:wght@300..900&family=Shizuru&display=swap");
 
 @theme {
-  --font-parisienne: {"parisienne", "sans-serif"};
-  --font-shrik: "Shrikhand", "sans-serif";
-  --font-shizuru: "Shizuru", "sans-serif";
-  --font-jost: "Jost", "sans-serif";
+  --font-parisienne: "Parisienne", sans-serif;
+  --font-shrik: "Shrikhand", sans-serif;
+  --font-shizuru: "Shizuru", sans-serif;
+  --font-jost: "Jost", sans-serif;
   --shadow-3xl: 0 35px 35px rgba(0, 0, 0, 0.25);
 }
 
