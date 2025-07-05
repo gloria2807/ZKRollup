@@ -1,5 +1,4 @@
 import React from 'react';
-import BannerImg from '../../assets/mmga1.png';
 import { GiTechnoHeart } from 'react-icons/gi';
 
 

@@ -1,5 +1,4 @@
 import React from 'react';
-import BannerImg from '../../assets/think.png';
 import { 
     FaLinkedin,
     FaGithub,
