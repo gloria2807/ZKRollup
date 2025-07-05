@@ -12,7 +12,7 @@ const Footer = () => {
     <div className='flex font-parisienne text-xl px-15 text-center justify-center text-white font-semibold'>
     <p>$ZENO is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only. Kindly <b>DYOR</b></p>
     </div>
-    <div className='w-full flex items-center font-jost pb-5 justify-center text-[18px] text-gray-950/70 pt-30'>
+    <div className='w-full px-15 flex items-center font-jost pb-5 justify-center text-[18px] text-gray-950/70 pt-30'>
             &copy; Ego 2025. Probably not a rug. All rights reserved.✌️
         </div>
     </div>
