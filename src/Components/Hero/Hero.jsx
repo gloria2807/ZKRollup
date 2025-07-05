@@ -11,14 +11,14 @@ import { GiPerfumeBottle, GiTechnoHeart } from 'react-icons/gi';
 const Hero = () =>  {
   return (
     <section id='home'>
-        <div className="container pt-20 flex items-center justify-center px-15" data-aos='fade-up' data-aos-delay='500'>
+        <div className="container pt-20 flex items-center justify-center" data-aos='fade-up' data-aos-delay='500'>
             <div className="parent flex items-center text-shadow-violet-50">
     <div className='py-5 sm:py-0 relative'>
         <div data-aos='fade-up' className="container md:ml-30 min-h-[620px] flex items-center">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8
             place-items-center">
                 <div className='relative'>
-                    <div className='py-10 px-5'>
+                    <div className='py-10 px-15'>
                                     <div className="name text-5xl font-shrik flex">
                     <span className='intr pb-8'>
                         $ZenoLayer
