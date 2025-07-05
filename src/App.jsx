@@ -28,7 +28,6 @@ return (
   <Intro />
   <About />
   <Buy />
-  <Tokenomics />
   <Roadmap />
   <FAQ />
   <Footer />
