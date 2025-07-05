@@ -18,19 +18,19 @@ const Hero = () =>  {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8
             place-items-center">
                 <div className='relative'>
-                    <div className='py-10 px-15'>
+                    <div className='py-10'>
                                     <div className="name text-5xl font-shrik flex">
-                    <span className='intr pb-8'>
+                    <span className='intr pb-8 px-15'>
                         $ZenoLayer
                     </span>
                 </div>
                                    <div>
-     <p className='tagline text-justify intr font-semibold text-shadow-black font-poppins flex'>
+     <p className='tagline text-justify intr font-semibold text-shadow-black font-poppins flex px-15'>
                             A zero-knowledge L2 for Ethereum. Finality so instant, it practically sends your transactions back to the past.
                         </p>
 </div>
                      <div className="colz">
-                        <div className="colz-icon flex py-10 text-8xl items-center justify-center text-shadow-black gap-8">
+                        <div className="colz-icon flex py-10 text-8xl items-center justify-center px-15 text-shadow-black gap-8">
                                             <a href='#'>
                                                 <FaGithub className='bg-transparent rounded-full shadow-custom-inset hover:scale-110 transition-all duration-300 text-white cursor-pointer' />
                                             </a>
