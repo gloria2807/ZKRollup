@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  //base: e.g., '/My-Portfolio-Site/'
+  base: '/ZKRollup/',
 })
